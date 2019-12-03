@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\Shashi\source\repos\Assignment2\Assignment2\Source.cpp(211,34): warning C4101: 'gy4': unreferenced local variable
+C:\Users\Shashi\source\repos\Assignment2\Assignment2\Source.cpp(211,6): warning C4101: 'gx': unreferenced local variable
+C:\Users\Shashi\source\repos\Assignment2\Assignment2\Source.cpp(211,39): warning C4101: 'gz': unreferenced local variable
+C:\Users\Shashi\source\repos\Assignment2\Assignment2\Source.cpp(211,14): warning C4101: 'gx2': unreferenced local variable
+C:\Users\Shashi\source\repos\Assignment2\Assignment2\Source.cpp(211,29): warning C4101: 'gx4': unreferenced local variable
+C:\Users\Shashi\source\repos\Assignment2\Assignment2\Source.cpp(211,24): warning C4101: 'gx3': unreferenced local variable
+C:\Users\Shashi\source\repos\Assignment2\Assignment2\Source.cpp(211,10): warning C4101: 'gy': unreferenced local variable
+C:\Users\Shashi\source\repos\Assignment2\Assignment2\Source.cpp(211,19): warning C4101: 'gy2': unreferenced local variable
+C:\Users\Shashi\source\repos\Assignment2\Assignment2\Source.cpp(279,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Assignment2.vcxproj -> C:\Users\Shashi\source\repos\Assignment2\Debug\Assignment2.exe
